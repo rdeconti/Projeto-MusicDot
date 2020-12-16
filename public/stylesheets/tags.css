@@ -1,0 +1,32 @@
+/** ****************************************************************************
+Project: Seniores Digitais - Labora/Alura/Oracle ONE
+Programmer: Rosemeire Deconti
+Date: December/2020
+**************************************************************************** **/
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+
+header {
+  font-family: 'Oswald', sans-serif;
+}
+
+
+main {
+  font-family: 'Oswald', sans-serif;
+}
+
+
+footer {
+  font-family: 'Oswald', sans-serif;
+}
+
+/** ------------------------------------------------------------ Media Query **/
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+
+}

@@ -1,0 +1,5 @@
+Icons:
+	Font Awesome (fontawesome.io)
+
+Other:
+	...
